@@ -1,0 +1,5 @@
+module-info.class
+com\mycompany\buscaminas\App.class
+com\mycompany\buscaminas\SystemInfo.class
+com\mycompany\buscaminas\Buscaminas.class
+com\mycompany\buscaminas\Tablero.class
